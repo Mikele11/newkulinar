@@ -1,0 +1,17 @@
+{
+  "name": "mybook",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ilyash Mychailo"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Mikele11/ChatWork",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
